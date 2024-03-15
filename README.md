@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello%20World!&fontSize=90" />
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otherplet)](https://solved.ac/otherplet)
+
+## 🚀 Skills
+----
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![] (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungxxx&hide=contribs,prs&show_icons=true&theme=graywhite)
 <!--
