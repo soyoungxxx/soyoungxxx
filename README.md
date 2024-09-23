@@ -1,31 +1,35 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otherplet)](https://solved.ac/otherplet)
-
+## ❤️ Introduce me
+꾸준히 성장 중인 주니어 백엔드 개발자 하소영입니다. <br>
+많은 사람에게 도움이 되는 개발자가 되기 위해 공부 중입니다. 🖐️
 
 ## 🚀 Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungxxx&layout=compact)
+
+![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<br>
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>
-![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring-239120?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/SpringBoot-239120?style=for-the-badge&logo=springboot&logoColor=white)
-<br>
-![](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungxxx&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otherplet)](https://solved.ac/otherplet)
+
+## 🎓 Education
+세종대학교 컴퓨터공학과
+> 2019.03 ~ 2024.08
+
+신한DS 금융SW 아카데미
+> 2024.03 ~ 2024.09
+
+## 🖐️ Contact me!
+E- mail | [📧 otherplet@gmail.com](mailto:otherplet@gmail.com)
+
+Blog | [🔗velog.io/@soyoungxxx](https://velog.io/@soyoungxxx/posts)
+
 <!--
-**soyoungxxx/soyoungxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungxxx&hide=contribs,prs&show_icons=true&theme=graywhite)
 -->
