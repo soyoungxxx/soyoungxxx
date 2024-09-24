@@ -30,6 +30,8 @@ E- mail | [📧 otherplet@gmail.com](mailto:otherplet@gmail.com)
 
 Blog | [🔗velog.io/@soyoungxxx](https://velog.io/@soyoungxxx/posts)
 
+Notion | [📘soyeongxxx.notion](https://soyeongxx.notion.site/2bc30738bf864e2b97f3e8fc6576dda9?pvs=74)
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoungxxx&hide=contribs,prs&show_icons=true&theme=graywhite)
 -->
