@@ -20,11 +20,11 @@
 
 ## 🐧 GitAnimals
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/soyoungxxx"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/soyoungxxx?pet-id=642706038847410818"
+    width="800"
+    height="120"
+  />
 </a>
 
 ## 🎓 Education
