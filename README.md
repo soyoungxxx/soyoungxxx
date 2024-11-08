@@ -18,6 +18,15 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=otherplet)](https://solved.ac/otherplet)
 
+## 🐧 GitAnimals
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/soyoungxxx"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🎓 Education
 세종대학교 컴퓨터공학과
 > 2019.03 ~ 2024.08
