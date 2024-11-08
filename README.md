@@ -21,11 +21,12 @@
 ## 🐧 GitAnimals
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/soyoungxxx?pet-id=642706038847410818"
+    src="https://render.gitanimals.org/lines/soyoungxxx?pet-id=642706038847410821"
     width="800"
     height="120"
   />
 </a>
+  
 
 ## 🎓 Education
 세종대학교 컴퓨터공학과
